@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Developer [Machine Learning Engineer] from India</h3>
 <h2> Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height='30px'></h2>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 - 🔭 I’m currently working on Machine Learning and Recommender Systems
 - 🌱 I’m currently learning **Reinforcement Learning**
