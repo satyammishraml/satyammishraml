@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- 🔭 I’m currently working on [MERN Stack with ML](https://insta-manger.herokuapp.com/Dashboard)
-- 🌱 I’m currently learning **MERN and Native Languages**
-- 🤝 I’m looking for help with **Full Stack+Machine Learning**
-- 💬 Ask me about **ML, React and Full stack development**
-- 📫 How to reach me **govindskatyura@gmail.com**
+- 🔭 I’m currently working on Machine Learning and Recommender Systems
+- 🌱 I’m currently learning **Reinforcement Learning**
+- 🤝 I’m looking for help with **Reinforcement Learning**
+- 💬 Ask me about **ML, Data Science and Deep Learning**
+- 📫 How to reach me **7990satyam200@gmail.com**
 
 ⭐️ From [Satyam Mishra](https://github.com/satyammishraml)
 
